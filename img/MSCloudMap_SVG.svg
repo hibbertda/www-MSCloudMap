@@ -271,6 +271,7 @@
 					v:shadowScale="1.02" transform="matrix(1.02,0,0,1.02,-1.26,-13.3338)" class="st4">
 				<rect x="0" y="638.563" width="126" height="56.25" rx="13.5" ry="13.5" class="st5"/>
 			</g>
+		<a xlink:href="https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod" target="_blank" xlink:title="Office 365 GCC High and DoD">
 			<rect x="0" y="638.563" width="126" height="56.25" rx="13.5" ry="13.5" class="st7"/>
 			<text x="30.44" y="662.49" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Office 365 <v:lf/><tspan
 						x="31.34" dy="1.2em" class="st14">GCC</tspan>-High</text>		</g>
