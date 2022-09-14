@@ -135,8 +135,8 @@
 			<rect x="0" y="667.812" width="342" height="27" class="st9"/>
 			<text x="105.82" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U.S. Regulated Industries</text>		</g>
 		<g id="shape6-27" v:mID="6" v:groupContext="shape" transform="translate(679.875,-622.437)">
-			<title>Sheet.6</title>
-			<desc>Air Gapped U.S. Government</desc>
+			<title>U.S. Government Air Gapped</title>
+			<desc>U.S. Government Air Gapped</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)"/>
 			<v:textRect cx="189" cy="681.312" width="378" height="27"/>
       <a xlink:href="https://azure.microsoft.com/en-us/explore/global-infrastructure/government/national-security/" target="_blank" xlink:title="Azure Government for national security">
@@ -149,7 +149,7 @@
 			<path d="M0 694.81 L462.6 694.81" class="st11"/>
 		</g>
 		<g id="shape19-33" v:mID="19" v:groupContext="shape" transform="translate(40.875,-470.562)">
-			<title>Sheet.19</title>
+			<title>Modern Workplace</title>
 			<desc>Modern Workplace</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)"/>
 			<v:textRect cx="56.25" cy="666.688" width="112.5" height="56.25"/>
@@ -550,7 +550,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)"/>
 			<v:textRect cx="63" cy="681.312" width="126" height="27"/>
 			<rect x="0" y="667.812" width="126" height="27" rx="9" ry="9" class="st16"/>
-			<text x="26.58" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AAD Top Secret</text>		</g>
+			<text x="26.58" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Top Secret</text>		</g>
 		<g id="shape41-226" v:mID="41" v:groupContext="shape" transform="translate(180.375,-350.86)">
 			<title>Sheet.41</title>
 			<g id="shadow41-227" v:groupContext="shadow" v:shadowOffsetX="1.83697E-16" v:shadowOffsetY="-3" v:shadowType="1"
@@ -612,21 +612,27 @@
 			<v:textBlock v:margins="rect(4,4,4,4)"/>
 			<v:textRect cx="144" cy="681.312" width="288" height="27"/>
 			<rect x="0" y="667.812" width="288" height="27" rx="9" ry="9" class="st16"/>
-			<text x="113.41" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AAD Public</text>		</g>
+      <a xlink:href="https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis" target="_blank" xlink:title="What is Azure Active Directory">
+			<text x="113.41" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Public (commercial)</text>		
+      </a>
+      </g>
 		<g id="shape38-263" v:mID="38" v:groupContext="shape" transform="translate(513.375,-338.373)">
-			<title>Sheet.38</title>
+			<title>AAD Government</title>
 			<desc>AAD Gov</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)"/>
 			<v:textRect cx="72" cy="681.312" width="144.01" height="27"/>
 			<rect x="0" y="667.812" width="144" height="27" rx="9" ry="9" class="st16"/>
-			<text x="47.18" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AAD Gov</text>		</g>
+      <a xlink:href="https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-plan-identity" target="_blank" xlink:title="Azure Government Ideneity">
+			<text x="47.18" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Government</text>		
+      </a>
+      </g>
 		<g id="shape39-266" v:mID="39" v:groupContext="shape" transform="translate(709.125,-338.377)">
-			<title>Sheet.39</title>
+			<title>AAD Secret</title>
 			<desc>AAD Secret</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)"/>
 			<v:textRect cx="65.25" cy="681.312" width="130.51" height="27"/>
 			<rect x="0" y="667.812" width="130.5" height="27" rx="9" ry="9" class="st16"/>
-			<text x="34.39" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AAD Secret</text>		</g>
+			<text x="50" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Secret</text>		</g>
 		<g id="group65-269" transform="translate(715.875,-340.398)" v:mID="65" v:groupContext="group">
 			<title>Icon-identity-221.65</title>
 			<g id="shape66-270" v:mID="66" v:groupContext="shape">
@@ -8504,8 +8510,8 @@
 			<rect x="0" y="649.25" width="360" height="45.5625" rx="4.5" ry="4.5" class="st37"/>
 			<text x="122.25" y="675.63" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Specific Requirement</text>		</g>
 		<g id="shape6000-358" v:mID="6000" v:groupContext="shape" transform="translate(711.375,-471.687)">
-			<title>Sheet.6000</title>
-			<desc>Office 365</desc>
+			<title>Office 365 Secret is not currently generalyy available [Sept 2022]</title>
+			<desc>Office 365 Secret</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)"/>
 			<v:textRect cx="63" cy="666.688" width="126" height="56.25"/>
 			<g id="shadow6000-359" v:groupContext="shadow" v:shadowOffsetX="7.2E-08" v:shadowOffsetY="0" v:shadowType="1"
@@ -8515,8 +8521,8 @@
 			<rect x="0" y="638.563" width="126" height="56.25" rx="13.5" ry="13.5" class="st38"/>
 			<text x="30.44" y="670.89" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Office 365</text>		</g>
 		<g id="shape6001-366" v:mID="6001" v:groupContext="shape" transform="translate(900.375,-471.687)">
-			<title>Sheet.6001</title>
-			<desc>Office 365</desc>
+			<title>Office 365 Top Secret is not currently generalyy available [Sept 2022]</title>
+			<desc>Office 365 Top Secret</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)"/>
 			<v:textRect cx="63" cy="666.688" width="126" height="56.25"/>
 			<g id="shadow6001-367" v:groupContext="shadow" v:shadowOffsetX="7.2E-08" v:shadowOffsetY="0" v:shadowType="1"
@@ -8546,7 +8552,7 @@
 		<g id="group6003-382" transform="translate(148.875,-622.437)" v:mID="6003" v:groupContext="group">
 			<title>Sheet.6003</title>
 			<g id="shape3-383" v:mID="3" v:groupContext="shape">
-				<title>Sheet.3</title>
+				<title>Public Cloud Services</title>
 				<desc>Public (Commercial)</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)"/>
 				<v:textRect cx="94.5" cy="667.812" width="189" height="54"/>
