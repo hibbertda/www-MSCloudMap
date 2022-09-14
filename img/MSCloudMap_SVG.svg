@@ -270,9 +270,12 @@
 					v:shadowScale="1.02" transform="matrix(1.02,0,0,1.02,-1.26,-13.3338)" class="st4">
 				<rect x="0" y="638.563" width="126" height="56.25" rx="13.5" ry="13.5" class="st5"/>
 			</g>
+		<a xlink:href="https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod" target="_blank" xlink:title="Office 365 GCC High and DoD">
 			<rect x="0" y="638.563" width="126" height="56.25" rx="13.5" ry="13.5" class="st7"/>
 			<text x="30.44" y="662.49" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Office 365 <v:lf/><tspan
-						x="31.34" dy="1.2em" class="st14">GCC</tspan>-High</text>		</g>
+						x="31.34" dy="1.2em" class="st14">GCC</tspan>-High</text>
+		</a> 
+		</g>
 		<g id="shape34-95" v:mID="34" v:groupContext="shape" transform="translate(523.5,-406.437)">
 			<title>Sheet.34</title>
 			<desc>Azure Government</desc>
@@ -282,9 +285,12 @@
 					v:shadowScale="1.02" transform="matrix(1.02,0,0,1.02,-1.26,-13.3338)" class="st4">
 				<rect x="0" y="638.563" width="126" height="56.25" rx="13.5" ry="13.5" class="st5"/>
 			</g>
+		<a xlink:href="https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-welcome" target="_blank" xlink:title="What is Azure Government?">
 			<rect x="0" y="638.563" width="126" height="56.25" rx="13.5" ry="13.5" class="st6"/>
 			<text x="44.66" y="662.49" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Azure<v:lf/><tspan
-						x="23.46" dy="1.2em" class="st14">Government</tspan></text>		</g>
+						x="23.46" dy="1.2em" class="st14">Government</tspan></text>		
+		</a> 
+		</g>
 		<g id="shape35-102" v:mID="35" v:groupContext="shape" transform="translate(710.25,-406.437)">
 			<title>Sheet.35</title>
 			<desc>Azure Secret</desc>
@@ -294,9 +300,12 @@
 					v:shadowScale="1.02" transform="matrix(1.02,0,0,1.02,-1.26,-13.3338)" class="st4">
 				<rect x="0" y="638.563" width="126" height="56.25" rx="13.5" ry="13.5" class="st5"/>
 			</g>
+		<a xlink:href="https://azure.microsoft.com/en-us/explore/global-infrastructure/government/national-security/" target="_blank" xlink:title="Azure Government for national security">
 			<rect x="0" y="638.563" width="126" height="56.25" rx="13.5" ry="13.5" class="st6"/>
 			<text x="44.66" y="662.49" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Azure<v:lf/><tspan
-						x="43.34" dy="1.2em" class="st14">Secret</tspan></text>		</g>
+						x="43.34" dy="1.2em" class="st14">Secret</tspan></text>
+		</a>				
+		</g>
 		<g id="shape44-109" v:mID="44" v:groupContext="shape" transform="translate(901.5,-406.437)">
 			<title>Sheet.44</title>
 			<desc>Azure Top Secret</desc>
@@ -441,8 +450,11 @@
 					v:shadowScale="1.02" transform="matrix(1.02,0,0,1.02,-1.8,-13.75)" class="st4">
 				<rect x="0" y="680.188" width="180" height="14.625" rx="4.5" ry="4.5" class="st20"/>
 			</g>
+		<a xlink:href="https://docs.microsoft.com/en-us/azure/compliance/offerings/offering-dod-il6" target="_blank" xlink:title="Department of Defense (DoD) Impact Level 6 (IL6)">
 			<rect x="0" y="680.188" width="180" height="14.625" rx="4.5" ry="4.5" class="st21"/>
-			<text x="33.48" y="690.5" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>DOD Impact Level 6 (IL6)</text>		</g>
+			<text x="33.48" y="690.5" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>DOD Impact Level 6 (IL6)</text>
+		</a>	
+		</g>
 		<g id="shape94-176" v:mID="94" v:groupContext="shape" transform="translate(684.375,-248.938)">
 			<title>Sheet.94</title>
 			<desc>ICD 503</desc>
