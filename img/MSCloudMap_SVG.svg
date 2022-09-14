@@ -129,11 +129,11 @@
 		</g>
 		<g id="shape4-24" v:mID="4" v:groupContext="shape" transform="translate(337.875,-622.437)">
 			<title>Sheet.4</title>
-			<desc>US Regulated Industries</desc>
+			<desc>U.S. Regulated Industries</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)"/>
 			<v:textRect cx="171" cy="681.312" width="342" height="27"/>
 			<rect x="0" y="667.812" width="342" height="27" class="st9"/>
-			<text x="105.82" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>US Regulated Industries</text>		</g>
+			<text x="105.82" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U.S. Regulated Industries</text>		</g>
 		<g id="shape6-27" v:mID="6" v:groupContext="shape" transform="translate(679.875,-622.437)">
 			<title>Sheet.6</title>
 			<desc>Air Gapped U.S. Government</desc>
@@ -141,7 +141,7 @@
 			<v:textRect cx="189" cy="681.312" width="378" height="27"/>
       <a xlink:href="https://azure.microsoft.com/en-us/explore/global-infrastructure/government/national-security/" target="_blank" xlink:title="Azure Government for national security">
 			<rect x="0" y="667.812" width="378" height="27" class="st9"/>
-			<text x="110.62" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Air Gapped U.S. Government</text>		
+			<text x="110.62" y="684.91" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U.S. Government Air Gapped </text>		
       </a>
       </g>
 		<g id="shape10-30" v:mID="10" v:groupContext="shape" transform="translate(-199.437,544.536) rotate(-90)">
